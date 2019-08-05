@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakeNav plugin for CakePHP
 
 ## Installation
@@ -9,3 +10,6 @@ The recommended way to install composer packages is:
 ```
 composer require your-name-here/CakeNav
 ```
+=======
+# CakeNav
+>>>>>>> c3ec9fddde5bf561f2ac917ba35b9ec238392b57
